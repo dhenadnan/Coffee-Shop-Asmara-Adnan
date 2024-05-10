@@ -1,0 +1,110 @@
+body {
+  font-family: Arial, sans-serif;
+  margin: 0;
+  padding: 0;
+  background-color: #f0f0f0;
+}
+
+.container {
+  max-width: 800px;
+  margin: 0 auto;
+  padding: 20px;
+  background-color: #fff;
+}
+
+header h1 {
+  text-align: center;
+  color: #f1e8e8;
+}
+
+main {
+  margin-top: 20px;
+}
+
+.about-section,
+.interests-section,
+.contact-section {
+  margin-bottom: 30px;
+}
+
+.about-section h2,
+.interests-section h2,
+.contact-section h2 {
+  color: #333;
+}
+
+.about-section p {
+  color: #666;
+}
+
+.interests-section ul {
+  list-style-type: none;
+  padding-left: 20px;
+}
+
+footer {
+  text-align: center;
+  margin-top: 30px;
+  padding-top: 10px;
+  border-top: 1px solid #ccc;
+}
+
+body,
+h1,
+h2,
+p {
+  margin: 0;
+  padding: 0;
+}
+
+header {
+  background-color: #452c20;
+  color: #fff;
+  padding: 20px;
+  text-align: center;
+}
+
+nav {
+  background-color: #8c735b;
+  padding: 10px;
+}
+
+nav ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  text-align: center;
+}
+
+nav ul li {
+  display: inline;
+  margin-right: 20px;
+}
+
+nav ul li a {
+  color: #fff;
+  text-decoration: none;
+}
+
+nav ul li a:hover {
+  text-decoration: underline;
+}
+
+main {
+  padding: 20px;
+}
+
+section {
+  margin-bottom: 30px;
+}
+
+h2 {
+  color: #452c20;
+}
+
+footer {
+  background-color: #452c20;
+  color: #fff;
+  text-align: center;
+  padding: 10px;
+}
